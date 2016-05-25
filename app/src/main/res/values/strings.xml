@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">WorldMood</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="country">Country</string>
+    <string name="age">Age</string>
+    <string name="male">Male</string>
+    <string name="female">Femail</string>
+    <string name="register">register</string>
+    <string name="login">Log in</string>
+    <string name="registerQuestion">Don\'t have an account ?</string>
+    <string name="signup">Sign Up</string>
+
+    <string-array name="charType">
+        <item>Line Chart</item>
+        <item>Bar Chart</item>
+        <item>Radar Chart</item>
+        <item>Scatter Chart</item>
+    </string-array>
+</resources>
